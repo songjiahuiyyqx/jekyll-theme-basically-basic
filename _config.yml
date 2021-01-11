@@ -17,8 +17,8 @@ lang: zh-CN
 title: 宋佳慧的jekyll网站
 email:
 description: "宋佳慧的jekyll网站"
-baseurl: "/jekyll-theme-basically-basic" # the optional subpath of your site, e.g. "/blog"
-url: "https:// songjiahuiyyqx.gitee.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+baseurl: "/songjiahui" # the optional subpath of your site, e.g. "/blog"
+url: "https://songjiahuiyyqx.gitee.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 author:
   name: "宋佳慧"
   twitter:
