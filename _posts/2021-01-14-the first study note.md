@@ -1,4 +1,5 @@
---
+---
+layout: page
 title: 学习笔记
 excerpt_separator: "<!--more-->"
 categories:
