@@ -29,11 +29,13 @@ categories:
 前端开发人员更关注网站的外观，而后端开发人员更关注网站的速度、性能和响应能力，并且两者负责的内容不同，工作难度不同，学习内容不同
 ```
 - 举个栗子(例子)
+---
 ![qianhouduanqu](https://pic2.zhimg.com/80/v2-32e9c4de7de2d8b8b2524f4237b321dd_1440w.jpg?source=1940ef5c)
 - 当然想要更直白地看到区别，也可以打开任意一个网站，这时候你看到的就是前端，然后点击鼠标右键，可以看到检查，之后点开就可以看到后端
 - 再举个栗子
-![qianhouduanqu](assets/images/qianduan.png){:height="250" width="250"}
-![qianhouduanqu](assets/images/houduan.png){:height="250" width="250"}
+---
+![qianhouduanqu](http://m.qpic.cn/psc?/V12hxiwB3vOeKA/ruAMsa53pVQWN7FLK88i5rnpL1x9QlE67sEpWchDqKZ2CsoNc09bsg2lo5EIJnfkIxSQCgju6OyylB4GSDoz4EOR4g6Qw.dIjbbMgcbplh0!/b&bo=gAecAwAAAAADBzo!&rf=viewer_4)
+![qianhouduanqu](http://m.qpic.cn/psc?/V12hxiwB3vOeKA/45NBuzDIW489QBoVep5mcZYqEfsM3IvXPY0wQZWQIpIz4ICzi1sznphuWD16S8yWWv5fGYsHKr705YRmOT1CNxVke6lMg2BlGkMcQ00SEiY!/b&bo=gAecAwAAAAADNwo!&rf=viewer_4){:height="250" width="250"}
 
 #### Web标准的构成
 - 作为一个网络与新媒体的学生我们需要了解设计一个网页要懂得什么
