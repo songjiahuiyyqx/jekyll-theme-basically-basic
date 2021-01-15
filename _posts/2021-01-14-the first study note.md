@@ -34,8 +34,8 @@ categories:
 - 当然想要更直白地看到区别，也可以打开任意一个网站，这时候你看到的就是前端，然后点击鼠标右键，可以看到检查，之后点开就可以看到后端
 - 再举个栗子
 ---
-![qianhouduanqu](http://m.qpic.cn/psc?/V12hxiwB3vOeKA/ruAMsa53pVQWN7FLK88i5rnpL1x9QlE67sEpWchDqKZ2CsoNc09bsg2lo5EIJnfkIxSQCgju6OyylB4GSDoz4EOR4g6Qw.dIjbbMgcbplh0!/mnull&bo=gAecAwAAAAADBzo!&rf=photolist&t=5){:height="250" width="250"}
-![qianhouduanqu](http://m.qpic.cn/psc?/V12hxiwB3vOeKA/ruAMsa53pVQWN7FLK88i5rnpL1x9QlE67sEpWchDqKY8tEdf*Lakhalusn*O7vwtbVY5aZB7I8y.d.br0MTTCIQrBGxFI6hZzqNq3IaqjZM!/mnull&bo=gAecAwAAAAADBzo!&rf=photolist&t=5){:height="250" width="250"}
+![qianhouduanqu](http://a1.qpic.cn/psc?/V14GAclD3VAzxr/ruAMsa53pVQWN7FLK88i5kT5lOc*bVJuOTOXKRjHMdxES25c.HOXEoqbeP8HuQ3dhxVWoYC*JSOlrylfKFdStbwCjx2zgQpiew6R0kmbRJg!/b&ek=1&kp=1&pt=0&bo=gAecAwAAAAADZ1o!&tl=1&vuin=2491429031&tm=1610686800&sce=60-2-2&rf=viewer_4){:height="250" width="250"}
+![qianhouduanqu](http://m.qpic.cn/psc?/V14GAclD3VAzxr/45NBuzDIW489QBoVep5mcerbXhvwVTKNdxydmC*gX1oFg3dn0rQsUItkAe0nIvs7GaB0PGSLApW2FCr9WnI7na*5G7VWvu07YpirJdw10Hs!/b&bo=gAecAwAAAAADNwo!&rf=viewer_4){:height="250" width="250"}
 
 #### Web标准的构成
 - 作为一个网络与新媒体的学生我们需要了解设计一个网页要懂得什么
