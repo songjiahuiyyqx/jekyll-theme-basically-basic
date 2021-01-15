@@ -32,10 +32,6 @@ categories:
 ---
 ![qianhouduanqu](https://pic2.zhimg.com/80/v2-32e9c4de7de2d8b8b2524f4237b321dd_1440w.jpg?source=1940ef5c)
 - 当然想要更直白地看到区别，也可以打开任意一个网站，这时候你看到的就是前端，然后点击鼠标右键，可以看到检查，之后点开就可以看到后端
-- 再举个栗子
----
-![qianhouduanqu](http://a1.qpic.cn/psc?/V53wXOAa1wHs2K2fhlDt1Zy6xm0fOF9H/ruAMsa53pVQWN7FLK88i5gGlaDeZekm05qt0fVeWCKRi*LgOcMMPav15kNH611n8l.ZFuCsOStOUcRX2YXcMFW9wrX9UcHXIAorVKJW21Tc!/c&ek=1&kp=1&pt=0&bo=gAecA4AHnAMDEDU!&tl=1&vuin=2491429031&tm=1610686800&sce=60-2-2&rf=0-0){:height="250" width="250"}
-![qianhouduanqu](http://a1.qpic.cn/psc?/V53wXOAa1wHs2K2fhlDt1Zy6xm0fOF9H/ruAMsa53pVQWN7FLK88i5gGlaDeZekm05qt0fVeWCKTUK5WUw6EJO5yWI9QgKqUItUQplR7qStYMzn1ISvo0J45ub5NJDZW3qNpwcyVTS0Q!/b&ek=1&kp=1&pt=0&bo=gAecA4AHnAMDEDU!&tl=1&vuin=2491429031&tm=1610686800&sce=50-1-1&rf=viewer_311){:height="250" width="250"}
 
 #### Web标准的构成
 - 作为一个网络与新媒体的学生我们需要了解设计一个网页要懂得什么
