@@ -5,7 +5,7 @@ excerpt_separator: "<!--more-->"
 categories:
       - SVG笔记
 ---
-### 网页设计就业
+### svg动态图标
 <!--more-->
 ### 原代码
 ```
@@ -132,7 +132,69 @@ categories:
 		<animate attributeName="width" attributeType="XML" begin="0s" dur="5s" fill="freeze" from="300" to="800"/>
 		<animate attributeName="height" attributeType="XML" begin="0s" dur="5s" fill="freeze" from="100" to="300"/>
 		<animate attributeType="CSS"  from="1" to="0" dur="6s" repeatCount="indefinite">
+			body {
+			background-color: #232f3a;
+  height: 100vh;
+  display: grid;
+  place-items: center;
+  .draw-box {
+    overflow: hidden;
+    position: relative;
+    margin-top: 60px;
+    width: 335px;
+    .typewriter-effect {
+      overflow: hidden;
+      animation: typingEffect 1.6s steps(22) forwards,
+        blinkTextCursor 1s infinite;
+      width: 0;
+      color: #e8e8e8;
+      height: 30px;
+      font-size: 34px;
+      white-space: nowrap;
+      vertical-align: middle;
+      line-height: 0.9;
+      font-family: 'Barlow Semi Condensed', sans-serif;
+    }
+    @keyframes typingEffect {
+      from {
+        width: 0;
+      }
+      to {
+        width: 98%;
+      }
+    }
+    @keyframes blinkTextCursor {
+      from {
+        border-right: 3px solid #f8f8f8;
+      }
+      to {
+        border-right: transparent;
+      }
+    }
+    svg {
+      width: 93%;
+      margin-top: 10px;
+      .stroke {
+        fill: none;
+        stroke: #e8e8e8;
+        stroke-width: 0.8;
+      }
+      .coffeeColor {
+        fill: #b59440;
+        // fill: #6d6550; //Coffee color
+      }
+      .steamColor {
+        fill: #ddd;
+      }
+      .ripple {
+        transform: translate3d(-30%, 100%, 0);
+      }
+    }
+  }
+}
 		</svg></div>
+
+---
 
 #### 这是我的动画尝试效果
 
