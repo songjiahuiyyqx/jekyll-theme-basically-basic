@@ -3,7 +3,9 @@ layout: page
 ---
 
 {{ content }}
-
+<audio id="audio" controls="" preload="auto" loop="loop" autoplay="autoplay">
+<source id="mp3" src="/jekyll-theme-basically-basic/assets/musics/yinyue8.mp3">
+</audio>
 <ul class="taxonomy-index">
   {% assign tags_max = 0 %}
   {% for tag in site.tags %}
