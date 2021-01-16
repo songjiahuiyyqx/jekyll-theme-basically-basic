@@ -1,9 +1,9 @@
 ---
 layout: page
-title: 平面设计笔记
+title: 平面设计
 excerpt_separator: "<!--more-->"
 categories:
-      - 平面设计笔记
+      - 平面设计
 ---
 ### 平面设计用途
 <!--more-->
