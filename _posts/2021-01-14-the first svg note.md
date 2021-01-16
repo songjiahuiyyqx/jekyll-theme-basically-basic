@@ -5,7 +5,7 @@ excerpt_separator: "<!--more-->"
 categories:
       - SVG笔记
 ---
-### 网页设计就业
+### svg动画效果
 <!--more-->
 ### 原代码
 ```
@@ -29,3 +29,9 @@ categories:
 		<animate attributeName="height" attributeType="XML" begin="0s" dur="5s" fill="freeze" from="100" to="300"/>
 		<animate attributeType="CSS"  from="1" to="0" dur="6s" repeatCount="indefinite">
 		</svg></div>
+
+#### 这是我的动画尝试效果
+
+---
+
+#### 希望我的svg笔记过程，可以帮助你了解svg
