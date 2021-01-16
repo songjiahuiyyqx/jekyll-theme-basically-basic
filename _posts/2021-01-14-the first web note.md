@@ -1,9 +1,9 @@
 ---
 layout: page
-title: 网页设计笔记
+title: 网页设计
 excerpt_separator: "<!--more-->"
 categories:
-      - 网页设计笔记
+      - 网页设计
 ---
 ### 网页设计
 <!--more-->
